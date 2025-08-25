@@ -1,4 +1,4 @@
-# main.py (ветка pole)
+    # main.py (ветка pole)
 
 import tkinter as tk
 from tkinter import messagebox
